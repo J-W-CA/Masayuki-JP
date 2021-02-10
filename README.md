@@ -4,7 +4,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class DataEngineer:
+class SeniorAppleEngineer:
     def __init__(self):
         self.name = "Jason Wang"
         self.role = "Software Engineer"
