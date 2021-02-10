@@ -37,7 +37,7 @@ I write down tips and lecture notes on my personal tech blog, which can be found
             )
         )
 
-me = DataEngineer()
+me = SeniorAppleEngineer()
 me.say_hi()
 
 ```
