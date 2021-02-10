@@ -1,3 +1,4 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 [![Gmail Badge](https://img.shields.io/badge/-brunohemingway689@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunohemingway689@gmail.com)](brunohemingway689@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-JasonWang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-wang-0521741b2/)](https://www.linkedin.com/in/jason-wang-0521741b2/)
 ```python
