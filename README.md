@@ -45,6 +45,7 @@ me.say_hi()
 
 
 ## 🚀🔧 Preferred Programming Language
+![Language](https://img.shields.io/badge/Language-%20Swift%20-E57141.svg)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -57,7 +58,7 @@ me.say_hi()
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
 ## 🚀💻 Technologies & Tools
-
+[![Platform](https://img.shields.io/cocoapods/p/ZLImageEditor.svg?style=flat)](http://cocoadocs.org/docsets/ZLImageEditor)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
