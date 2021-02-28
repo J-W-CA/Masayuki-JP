@@ -75,7 +75,7 @@ me.say_hi()
 ## ⚡ GitHub Repos
 
 <a href="https://github.com/Ropponngi/Ropponngi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ropponngi&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ropponngi&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Repos" />
 </a>
 
 ## ⚡ GitHub Stats
