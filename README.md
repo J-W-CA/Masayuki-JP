@@ -72,12 +72,12 @@ me.say_hi()
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Repos
 
 <a href="https://github.com/Ropponngi/Ropponngi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ropponngi&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Stats" />
 </a>
-
+## ⚡ GitHub Stats
 <a href="https://github.com/Ropponngi/Ropponngi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ropponngi&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Stats" />
 </a>
