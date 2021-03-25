@@ -72,6 +72,23 @@ me.say_hi()
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
+## :man_technologist: Some necessary jargon ~
+
+<img align="right" src="dashboard.svg" height="310" />
+<!-- <img align="right" src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" height="300" /> -->
+
+### :desktop_computer: Front End : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" alt="HTML5" />](https://en.wikipedia.org/wiki/HTML5) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" alt="CSS3" />](https://en.wikipedia.org/wiki/CSS) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30" alt="Sass" />](https://sass-lang.com) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="50" height="30" alt="jQuery" />](https://jquery.com/)
+
+### :file_cabinet:&nbsp; Back End : [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" align="center" width="30" alt="Firebase" />](https://firebase.google.com/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" alt="Nodejs" />](https://nodejs.org/en/)
+
+### :jigsaw: Frameworks : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" alt="Bootstrap" />](https://getbootstrap.com/) [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="30" alt="React" />](https://reactjs.org/) [<img align="center" src="https://pbs.twimg.com/profile_images/763061332702736385/KoK6gHzp_400x400.jpg" width="25" alt="React Native" />](https://reactnative.dev/)
+
+<!-- [<img align="center" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" width="25" alt="Flutter" />](https://flutter.dev/) -->
+
+### :robot: AI / ML : [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" align="center" width="30" alt="TensorFlow" />](https://www.tensorflow.org/) [<img src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" align="center" width="30" alt="Jupyter" />](https://jupyter.org/) [<img src="https://avatars1.githubusercontent.com/u/38081706?s=40&v=4" align="center" width="30" alt="Google Colab" />](https://colab.research.google.com/)
+
+### :joystick: Other Tools : [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" width="35" alt="Atom" />](https://atom.io/) [<img align="center" src="https://avatars1.githubusercontent.com/u/11727320?s=40&v=4" width="38" alt="Android Studio" />](https://developer.android.com/studio) [<img src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4" align="center" width="30" alt="Postman" />](https://www.postman.com/)
+
 ## ⚡ GitHub Repos
 
 <a href="https://github.com/Ropponngi/Ropponngi">
@@ -88,5 +105,6 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ropponngi&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
