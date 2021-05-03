@@ -91,20 +91,20 @@ me.say_hi()
 
 ## ⚡ GitHub Repos
 
-<a href="https://github.com/Ropponngi/Ropponngi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ropponngi&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Repos" />
+<a href="https://github.com/LeeJunwoo-KR/LeeJunwoo-KR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJunwoo-KR&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Repos" />
 </a>
 
 ## ⚡ GitHub Stats
 
-<a href="https://github.com/Ropponngi/Ropponngi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ropponngi&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Stats" />
+<a href="https://github.com/LeeJunwoo-KR/LeeJunwoo-KR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeJunwoo-KR&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ropponngi's GitHub Stats" />
 </a>
 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ropponngi&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeeJunwoo-KR&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
