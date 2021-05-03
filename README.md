@@ -10,7 +10,7 @@ class SeniorAppleEngineer:
         self.name = "Jason Wang"
         self.role = "Software Engineer"
         self.location = "22.15\xc2\xb0 N, 114.15\xc2\xb0 E"
-        self.blog = "https://Ropponngi.github.io/"
+        self.blog = "https://LeeJunwoo-KR.github.io/"
         self.knowledge_base = [
             "Software Enginnering",
             "Machine Learning",
