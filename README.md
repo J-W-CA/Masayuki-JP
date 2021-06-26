@@ -7,10 +7,10 @@
 
 class SeniorAppleEngineer:
     def __init__(self):
-        self.name = "Jason Wang"
+        self.name = "Masayuki Inamori"
         self.role = "Software Engineer"
         self.location = "22.15\xc2\xb0 N, 114.15\xc2\xb0 E"
-        self.blog = "https://LeeJunwoo-KR.github.io/"
+        self.blog = "https://Masayuki-JP.github.io/"
         self.knowledge_base = [
             "Software Enginnering",
             "Machine Learning",
