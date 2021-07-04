@@ -1,4 +1,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-brunohemingway689@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunohemingway689@gmail.com)](brunohemingway689@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-masayuki.jp81@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:masayuki.jp81@gmail.com)](masayuki.jp81@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-JasonWang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jason-wang-0521741b2/)](https://www.linkedin.com/in/jason-wang-0521741b2/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ropponngi.Ropponngi)
 ```python
