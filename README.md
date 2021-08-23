@@ -43,7 +43,15 @@ me = SeniorAppleEngineer()
 me.say_hi()
 
 ```
+---
 
+> _"It was a bright cold day in April, and the clocks were striking thirteen."_
+> <p align="center">
+>   <img src="https://media.giphy.com/media/WQrVY21ccXRFYAjCCh/giphy.gif" alt="city gif" width="300px" />
+> </p>
+
+
+---
 
 ## 🚀🔧 Preferred Programming Language
 ![Language](https://img.shields.io/badge/Language-%20Swift%20-E57141.svg)
